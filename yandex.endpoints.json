@@ -1,0 +1,13 @@
+{
+  "endpoints": {
+
+    "ru-central1/sqs": {
+      "endpoint": "message-queue.api.cloud.yandex.net",
+      "auth-region": "ru-central1"
+    },
+    "*/sqs": {
+      "endpoint": "message-queue.api.cloud.yandex.net",
+      "auth-region": "ru-central1"
+    }
+  }
+}
